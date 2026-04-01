@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Gratitude",
+      "value": "Infinite"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ultra Mega Large 16 Pro SBT"
+    }
+  ],
+  "description": "A token of my friend’s participation in celebrating the 4th anniversary of TON Pterodactyls on March 30, 2026, as well as my birthday on April 1, 2026. I am now 12 years old, and the TON Pterodactyls project is already 4 years old. Thank you very much for your support — this is a mark of my appreciation. P.S. This SBT was minted by me personally, and a video of the minting has been saved on YouTube.",
+  "name": "TON Pterodactyls Birthday 2026 – Certificate of Participation",
+  "image": "https://pteronft.github.io/SBT/SBTbirthday26.png"
+}
